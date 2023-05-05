@@ -1,0 +1,2830 @@
+4 rainhas - 1 omp threads - 2 processos
+2 Soluções
+0.033864
+2 Soluções
+0.029056
+2 Soluções
+0.029462
+2 Soluções
+0.027331
+2 Soluções
+0.029568
+5 rainhas - 1 omp threads - 2 processos
+10 Soluções
+0.032184
+10 Soluções
+0.030405
+10 Soluções
+0.029578
+10 Soluções
+0.028569
+10 Soluções
+0.027918
+6 rainhas - 1 omp threads - 2 processos
+4 Soluções
+0.031018
+4 Soluções
+0.028887
+4 Soluções
+0.028432
+4 Soluções
+0.030366
+4 Soluções
+0.028089
+7 rainhas - 1 omp threads - 2 processos
+40 Soluções
+0.030439
+40 Soluções
+0.030181
+40 Soluções
+0.029533
+40 Soluções
+0.029171
+40 Soluções
+0.029176
+8 rainhas - 1 omp threads - 2 processos
+92 Soluções
+0.029746
+92 Soluções
+0.029785
+92 Soluções
+0.031268
+92 Soluções
+0.029398
+92 Soluções
+0.032000
+9 rainhas - 1 omp threads - 2 processos
+352 Soluções
+0.033306
+352 Soluções
+0.032351
+352 Soluções
+0.030754
+352 Soluções
+0.032158
+352 Soluções
+0.030296
+10 rainhas - 1 omp threads - 2 processos
+724 Soluções
+0.032187
+724 Soluções
+0.036989
+724 Soluções
+0.036855
+724 Soluções
+0.035632
+724 Soluções
+0.032515
+11 rainhas - 1 omp threads - 2 processos
+2680 Soluções
+0.056154
+2680 Soluções
+0.051117
+2680 Soluções
+0.055447
+2680 Soluções
+0.062851
+2680 Soluções
+0.061574
+12 rainhas - 1 omp threads - 2 processos
+14200 Soluções
+0.165935
+14200 Soluções
+0.180359
+14200 Soluções
+0.181961
+14200 Soluções
+0.160033
+14200 Soluções
+0.157100
+13 rainhas - 1 omp threads - 2 processos
+73712 Soluções
+0.827588
+73712 Soluções
+0.813879
+73712 Soluções
+0.820417
+73712 Soluções
+0.816593
+73712 Soluções
+0.817300
+14 rainhas - 1 omp threads - 2 processos
+365596 Soluções
+5.045917
+365596 Soluções
+5.050335
+365596 Soluções
+5.036073
+365596 Soluções
+5.043404
+365596 Soluções
+5.038512
+15 rainhas - 1 omp threads - 2 processos
+2279184 Soluções
+33.722592
+2279184 Soluções
+33.685869
+2279184 Soluções
+33.800813
+2279184 Soluções
+33.670350
+2279184 Soluções
+33.673808
+16 rainhas - 1 omp threads - 2 processos
+14772512 Soluções
+239.088117
+14772512 Soluções
+239.014489
+14772512 Soluções
+238.835170
+14772512 Soluções
+238.221659
+14772512 Soluções
+238.181022
+4 rainhas - 2 omp threads - 2 processos
+2 Soluções
+0.036645
+2 Soluções
+0.030152
+2 Soluções
+0.027846
+2 Soluções
+0.028096
+2 Soluções
+0.029681
+5 rainhas - 2 omp threads - 2 processos
+10 Soluções
+0.030501
+10 Soluções
+0.029408
+10 Soluções
+0.028029
+10 Soluções
+0.027290
+10 Soluções
+0.028818
+6 rainhas - 2 omp threads - 2 processos
+4 Soluções
+0.030096
+4 Soluções
+0.031413
+4 Soluções
+0.029527
+4 Soluções
+0.028631
+4 Soluções
+0.028346
+7 rainhas - 2 omp threads - 2 processos
+40 Soluções
+0.031168
+40 Soluções
+0.030432
+40 Soluções
+0.028827
+40 Soluções
+0.027309
+40 Soluções
+0.027701
+8 rainhas - 2 omp threads - 2 processos
+92 Soluções
+0.028318
+92 Soluções
+0.028836
+92 Soluções
+0.028489
+92 Soluções
+0.029716
+92 Soluções
+0.030073
+9 rainhas - 2 omp threads - 2 processos
+352 Soluções
+0.029560
+352 Soluções
+0.029217
+352 Soluções
+0.029002
+352 Soluções
+0.028408
+352 Soluções
+0.031857
+10 rainhas - 2 omp threads - 2 processos
+724 Soluções
+0.033789
+724 Soluções
+0.033550
+724 Soluções
+0.031528
+724 Soluções
+0.033356
+724 Soluções
+0.032822
+11 rainhas - 2 omp threads - 2 processos
+2680 Soluções
+0.053580
+2680 Soluções
+0.049819
+2680 Soluções
+0.051180
+2680 Soluções
+0.050768
+2680 Soluções
+0.049823
+12 rainhas - 2 omp threads - 2 processos
+14200 Soluções
+0.157125
+14200 Soluções
+0.159390
+14200 Soluções
+0.158136
+14200 Soluções
+0.159701
+14200 Soluções
+0.158641
+13 rainhas - 2 omp threads - 2 processos
+73712 Soluções
+0.823837
+73712 Soluções
+0.813887
+73712 Soluções
+0.812705
+73712 Soluções
+0.814985
+73712 Soluções
+0.814759
+14 rainhas - 2 omp threads - 2 processos
+365596 Soluções
+5.031994
+365596 Soluções
+5.038426
+365596 Soluções
+5.040803
+365596 Soluções
+5.040310
+365596 Soluções
+5.043730
+15 rainhas - 2 omp threads - 2 processos
+2279184 Soluções
+33.727850
+2279184 Soluções
+33.662439
+2279184 Soluções
+33.611775
+2279184 Soluções
+33.608298
+2279184 Soluções
+33.601353
+16 rainhas - 2 omp threads - 2 processos
+14772512 Soluções
+238.213782
+14772512 Soluções
+238.782397
+14772512 Soluções
+239.678851
+14772512 Soluções
+238.904707
+14772512 Soluções
+238.232793
+4 rainhas - 4 omp threads - 2 processos
+2 Soluções
+0.029110
+2 Soluções
+0.029350
+2 Soluções
+0.029172
+2 Soluções
+0.029390
+2 Soluções
+0.028157
+5 rainhas - 4 omp threads - 2 processos
+10 Soluções
+0.028814
+10 Soluções
+0.028680
+10 Soluções
+0.029450
+10 Soluções
+0.029166
+10 Soluções
+0.029767
+6 rainhas - 4 omp threads - 2 processos
+4 Soluções
+0.031319
+4 Soluções
+0.028322
+4 Soluções
+0.031770
+4 Soluções
+0.027180
+4 Soluções
+0.031565
+7 rainhas - 4 omp threads - 2 processos
+40 Soluções
+0.029290
+40 Soluções
+0.028898
+40 Soluções
+0.031106
+40 Soluções
+0.029472
+40 Soluções
+0.029365
+8 rainhas - 4 omp threads - 2 processos
+92 Soluções
+0.031358
+92 Soluções
+0.030287
+92 Soluções
+0.029664
+92 Soluções
+0.029235
+92 Soluções
+0.028741
+9 rainhas - 4 omp threads - 2 processos
+352 Soluções
+0.032927
+352 Soluções
+0.028558
+352 Soluções
+0.029420
+352 Soluções
+0.030362
+352 Soluções
+0.029163
+10 rainhas - 4 omp threads - 2 processos
+724 Soluções
+0.033978
+724 Soluções
+0.032280
+724 Soluções
+0.032562
+724 Soluções
+0.033076
+724 Soluções
+0.031699
+11 rainhas - 4 omp threads - 2 processos
+2680 Soluções
+0.051597
+2680 Soluções
+0.049334
+2680 Soluções
+0.050105
+2680 Soluções
+0.051463
+2680 Soluções
+0.050204
+12 rainhas - 4 omp threads - 2 processos
+14200 Soluções
+0.158112
+14200 Soluções
+0.157896
+14200 Soluções
+0.158490
+14200 Soluções
+0.156869
+14200 Soluções
+0.156922
+13 rainhas - 4 omp threads - 2 processos
+73712 Soluções
+0.817116
+73712 Soluções
+0.815006
+73712 Soluções
+0.815593
+73712 Soluções
+0.816597
+73712 Soluções
+0.812849
+14 rainhas - 4 omp threads - 2 processos
+365596 Soluções
+5.050435
+365596 Soluções
+5.046618
+365596 Soluções
+5.041233
+365596 Soluções
+5.040922
+365596 Soluções
+5.033329
+15 rainhas - 4 omp threads - 2 processos
+2279184 Soluções
+33.630259
+2279184 Soluções
+33.643713
+2279184 Soluções
+33.683036
+2279184 Soluções
+33.686744
+2279184 Soluções
+33.661459
+16 rainhas - 4 omp threads - 2 processos
+14772512 Soluções
+238.762506
+14772512 Soluções
+238.072916
+14772512 Soluções
+237.733484
+14772512 Soluções
+238.140117
+14772512 Soluções
+237.796478
+4 rainhas - 8 omp threads - 2 processos
+2 Soluções
+0.033692
+2 Soluções
+0.029008
+2 Soluções
+0.027901
+2 Soluções
+0.028063
+2 Soluções
+0.029317
+5 rainhas - 8 omp threads - 2 processos
+10 Soluções
+0.030058
+10 Soluções
+0.029199
+10 Soluções
+0.028097
+10 Soluções
+0.027395
+10 Soluções
+0.027348
+6 rainhas - 8 omp threads - 2 processos
+4 Soluções
+0.028585
+4 Soluções
+0.028571
+4 Soluções
+0.028823
+4 Soluções
+0.028820
+4 Soluções
+0.028026
+7 rainhas - 8 omp threads - 2 processos
+40 Soluções
+0.030652
+40 Soluções
+0.029785
+40 Soluções
+0.028464
+40 Soluções
+0.029748
+40 Soluções
+0.029975
+8 rainhas - 8 omp threads - 2 processos
+92 Soluções
+0.031735
+92 Soluções
+0.028013
+92 Soluções
+0.027891
+92 Soluções
+0.030585
+92 Soluções
+0.028017
+9 rainhas - 8 omp threads - 2 processos
+352 Soluções
+0.032364
+352 Soluções
+0.031444
+352 Soluções
+0.029404
+352 Soluções
+0.030827
+352 Soluções
+0.031380
+10 rainhas - 8 omp threads - 2 processos
+724 Soluções
+0.032882
+724 Soluções
+0.033041
+724 Soluções
+0.032114
+724 Soluções
+0.031581
+724 Soluções
+0.032006
+11 rainhas - 8 omp threads - 2 processos
+2680 Soluções
+0.051885
+2680 Soluções
+0.051730
+2680 Soluções
+0.050142
+2680 Soluções
+0.049870
+2680 Soluções
+0.051073
+12 rainhas - 8 omp threads - 2 processos
+14200 Soluções
+0.160044
+14200 Soluções
+0.157433
+14200 Soluções
+0.157900
+14200 Soluções
+0.156801
+14200 Soluções
+0.157937
+13 rainhas - 8 omp threads - 2 processos
+73712 Soluções
+0.814573
+73712 Soluções
+0.813872
+73712 Soluções
+0.814417
+73712 Soluções
+0.817675
+73712 Soluções
+0.816219
+14 rainhas - 8 omp threads - 2 processos
+365596 Soluções
+5.043253
+365596 Soluções
+5.053757
+365596 Soluções
+5.042205
+365596 Soluções
+5.039200
+365596 Soluções
+5.034669
+15 rainhas - 8 omp threads - 2 processos
+2279184 Soluções
+33.747708
+2279184 Soluções
+33.737227
+2279184 Soluções
+33.628023
+2279184 Soluções
+33.584991
+2279184 Soluções
+33.713454
+16 rainhas - 8 omp threads - 2 processos
+14772512 Soluções
+238.218630
+14772512 Soluções
+238.127038
+14772512 Soluções
+238.214020
+14772512 Soluções
+238.489236
+14772512 Soluções
+239.108480
+4 rainhas - 1 omp threads - 3 processos
+2 Soluções
+0.076731
+2 Soluções
+0.080872
+2 Soluções
+0.092830
+2 Soluções
+0.081340
+2 Soluções
+0.081656
+5 rainhas - 1 omp threads - 3 processos
+10 Soluções
+0.082855
+10 Soluções
+0.089947
+10 Soluções
+0.086076
+10 Soluções
+0.086156
+10 Soluções
+0.085093
+6 rainhas - 1 omp threads - 3 processos
+4 Soluções
+0.098077
+4 Soluções
+0.088688
+4 Soluções
+0.084541
+4 Soluções
+0.087455
+4 Soluções
+0.075155
+7 rainhas - 1 omp threads - 3 processos
+40 Soluções
+0.076059
+40 Soluções
+0.075123
+40 Soluções
+0.070096
+40 Soluções
+0.072825
+40 Soluções
+0.077150
+8 rainhas - 1 omp threads - 3 processos
+92 Soluções
+0.068133
+92 Soluções
+0.076250
+92 Soluções
+0.076043
+92 Soluções
+0.072770
+92 Soluções
+0.077874
+9 rainhas - 1 omp threads - 3 processos
+352 Soluções
+0.081195
+352 Soluções
+0.074549
+352 Soluções
+0.071836
+352 Soluções
+0.082158
+352 Soluções
+0.086273
+10 rainhas - 1 omp threads - 3 processos
+724 Soluções
+0.069628
+724 Soluções
+0.081939
+724 Soluções
+0.079836
+724 Soluções
+0.077989
+724 Soluções
+0.081964
+11 rainhas - 1 omp threads - 3 processos
+2680 Soluções
+0.097735
+2680 Soluções
+0.093742
+2680 Soluções
+0.091701
+2680 Soluções
+0.085628
+2680 Soluções
+0.094145
+12 rainhas - 1 omp threads - 3 processos
+14200 Soluções
+0.160456
+14200 Soluções
+0.169135
+14200 Soluções
+0.158667
+14200 Soluções
+0.163134
+14200 Soluções
+0.170764
+13 rainhas - 1 omp threads - 3 processos
+73712 Soluções
+0.687607
+73712 Soluções
+0.592189
+73712 Soluções
+0.586780
+73712 Soluções
+0.634553
+73712 Soluções
+0.682085
+14 rainhas - 1 omp threads - 3 processos
+365596 Soluções
+3.024728
+365596 Soluções
+3.695098
+365596 Soluções
+3.653539
+365596 Soluções
+3.795844
+365596 Soluções
+3.649369
+15 rainhas - 1 omp threads - 3 processos
+2279184 Soluções
+23.791288
+2279184 Soluções
+23.889034
+2279184 Soluções
+26.804389
+2279184 Soluções
+25.470294
+2279184 Soluções
+23.631323
+16 rainhas - 1 omp threads - 3 processos
+14772512 Soluções
+165.162594
+14772512 Soluções
+169.109279
+14772512 Soluções
+176.808275
+14772512 Soluções
+176.337004
+14772512 Soluções
+178.397470
+4 rainhas - 2 omp threads - 3 processos
+2 Soluções
+0.086958
+2 Soluções
+0.083129
+2 Soluções
+0.083896
+2 Soluções
+0.078961
+2 Soluções
+0.083149
+5 rainhas - 2 omp threads - 3 processos
+10 Soluções
+0.084466
+10 Soluções
+0.083413
+10 Soluções
+0.081535
+10 Soluções
+0.087286
+10 Soluções
+0.084962
+6 rainhas - 2 omp threads - 3 processos
+4 Soluções
+0.087973
+4 Soluções
+0.075899
+4 Soluções
+0.087000
+4 Soluções
+0.083689
+4 Soluções
+0.082445
+7 rainhas - 2 omp threads - 3 processos
+40 Soluções
+0.085474
+40 Soluções
+0.090711
+40 Soluções
+0.087908
+40 Soluções
+0.085260
+40 Soluções
+0.092223
+8 rainhas - 2 omp threads - 3 processos
+92 Soluções
+0.095378
+92 Soluções
+0.085482
+92 Soluções
+0.084682
+92 Soluções
+0.080788
+92 Soluções
+0.085210
+9 rainhas - 2 omp threads - 3 processos
+352 Soluções
+0.082289
+352 Soluções
+0.086089
+352 Soluções
+0.087285
+352 Soluções
+0.087218
+352 Soluções
+0.085812
+10 rainhas - 2 omp threads - 3 processos
+724 Soluções
+0.090395
+724 Soluções
+0.083260
+724 Soluções
+0.089356
+724 Soluções
+0.081124
+724 Soluções
+0.093815
+11 rainhas - 2 omp threads - 3 processos
+2680 Soluções
+0.103831
+2680 Soluções
+0.103519
+2680 Soluções
+0.099451
+2680 Soluções
+0.097472
+2680 Soluções
+0.102960
+12 rainhas - 2 omp threads - 3 processos
+14200 Soluções
+0.178319
+14200 Soluções
+0.189486
+14200 Soluções
+0.179893
+14200 Soluções
+0.178049
+14200 Soluções
+0.177977
+13 rainhas - 2 omp threads - 3 processos
+73712 Soluções
+0.706911
+73712 Soluções
+0.598254
+73712 Soluções
+0.610487
+73712 Soluções
+0.690943
+73712 Soluções
+0.615882
+14 rainhas - 2 omp threads - 3 processos
+365596 Soluções
+3.204005
+365596 Soluções
+3.688463
+365596 Soluções
+3.752946
+365596 Soluções
+3.566590
+365596 Soluções
+3.678013
+15 rainhas - 2 omp threads - 3 processos
+2279184 Soluções
+25.381869
+2279184 Soluções
+23.017469
+2279184 Soluções
+22.259766
+2279184 Soluções
+24.604289
+2279184 Soluções
+23.114178
+16 rainhas - 2 omp threads - 3 processos
+14772512 Soluções
+163.331069
+14772512 Soluções
+170.856624
+14772512 Soluções
+178.543137
+14772512 Soluções
+176.801312
+14772512 Soluções
+174.776221
+4 rainhas - 4 omp threads - 3 processos
+2 Soluções
+0.084604
+2 Soluções
+0.075734
+2 Soluções
+0.066583
+2 Soluções
+0.077943
+2 Soluções
+0.080115
+5 rainhas - 4 omp threads - 3 processos
+10 Soluções
+0.068983
+10 Soluções
+0.078899
+10 Soluções
+0.066829
+10 Soluções
+0.067314
+10 Soluções
+0.067765
+6 rainhas - 4 omp threads - 3 processos
+4 Soluções
+0.076061
+4 Soluções
+0.068319
+4 Soluções
+0.070254
+4 Soluções
+0.061930
+4 Soluções
+0.075247
+7 rainhas - 4 omp threads - 3 processos
+40 Soluções
+0.075555
+40 Soluções
+0.075803
+40 Soluções
+0.079048
+40 Soluções
+0.068815
+40 Soluções
+0.076050
+8 rainhas - 4 omp threads - 3 processos
+92 Soluções
+0.074691
+92 Soluções
+0.064524
+92 Soluções
+0.067933
+92 Soluções
+0.079507
+92 Soluções
+0.078914
+9 rainhas - 4 omp threads - 3 processos
+352 Soluções
+0.081254
+352 Soluções
+0.082088
+352 Soluções
+0.077080
+352 Soluções
+0.075485
+352 Soluções
+0.074532
+10 rainhas - 4 omp threads - 3 processos
+724 Soluções
+0.077150
+724 Soluções
+0.075161
+724 Soluções
+0.066910
+724 Soluções
+0.077285
+724 Soluções
+0.072380
+11 rainhas - 4 omp threads - 3 processos
+2680 Soluções
+0.085304
+2680 Soluções
+0.084950
+2680 Soluções
+0.086360
+2680 Soluções
+0.094677
+2680 Soluções
+0.091405
+12 rainhas - 4 omp threads - 3 processos
+14200 Soluções
+0.169214
+14200 Soluções
+0.169118
+14200 Soluções
+0.162800
+14200 Soluções
+0.168640
+14200 Soluções
+0.164865
+13 rainhas - 4 omp threads - 3 processos
+73712 Soluções
+0.660343
+73712 Soluções
+0.687783
+73712 Soluções
+0.659149
+73712 Soluções
+0.576267
+73712 Soluções
+0.658449
+14 rainhas - 4 omp threads - 3 processos
+365596 Soluções
+3.781394
+365596 Soluções
+3.275905
+365596 Soluções
+3.663587
+365596 Soluções
+3.235104
+365596 Soluções
+3.328869
+15 rainhas - 4 omp threads - 3 processos
+2279184 Soluções
+23.299135
+2279184 Soluções
+25.208681
+2279184 Soluções
+21.870436
+2279184 Soluções
+23.024947
+2279184 Soluções
+23.411454
+16 rainhas - 4 omp threads - 3 processos
+14772512 Soluções
+176.084707
+14772512 Soluções
+174.296584
+14772512 Soluções
+160.898010
+14772512 Soluções
+171.381613
+14772512 Soluções
+151.149594
+4 rainhas - 8 omp threads - 3 processos
+2 Soluções
+0.080440
+2 Soluções
+0.080473
+2 Soluções
+0.071079
+2 Soluções
+0.068357
+2 Soluções
+0.070669
+5 rainhas - 8 omp threads - 3 processos
+10 Soluções
+0.075270
+10 Soluções
+0.071357
+10 Soluções
+0.070586
+10 Soluções
+0.076582
+10 Soluções
+0.077544
+6 rainhas - 8 omp threads - 3 processos
+4 Soluções
+0.077352
+4 Soluções
+0.074075
+4 Soluções
+0.065647
+4 Soluções
+0.067129
+4 Soluções
+0.071976
+7 rainhas - 8 omp threads - 3 processos
+40 Soluções
+0.080157
+40 Soluções
+0.075319
+40 Soluções
+0.077893
+40 Soluções
+0.076653
+40 Soluções
+0.078962
+8 rainhas - 8 omp threads - 3 processos
+92 Soluções
+0.085974
+92 Soluções
+0.079466
+92 Soluções
+0.073051
+92 Soluções
+0.070776
+92 Soluções
+0.080023
+9 rainhas - 8 omp threads - 3 processos
+352 Soluções
+0.073044
+352 Soluções
+0.072024
+352 Soluções
+0.072143
+352 Soluções
+0.065405
+352 Soluções
+0.078828
+10 rainhas - 8 omp threads - 3 processos
+724 Soluções
+0.067994
+724 Soluções
+0.080933
+724 Soluções
+0.078383
+724 Soluções
+0.074704
+724 Soluções
+0.073568
+11 rainhas - 8 omp threads - 3 processos
+2680 Soluções
+0.088933
+2680 Soluções
+0.093709
+2680 Soluções
+0.086822
+2680 Soluções
+0.082546
+2680 Soluções
+0.076340
+12 rainhas - 8 omp threads - 3 processos
+14200 Soluções
+0.174281
+14200 Soluções
+0.162746
+14200 Soluções
+0.153184
+14200 Soluções
+0.167975
+14200 Soluções
+0.159048
+13 rainhas - 8 omp threads - 3 processos
+73712 Soluções
+0.693199
+73712 Soluções
+0.675021
+73712 Soluções
+0.661626
+73712 Soluções
+0.674166
+73712 Soluções
+0.683907
+14 rainhas - 8 omp threads - 3 processos
+365596 Soluções
+3.651795
+365596 Soluções
+3.654170
+365596 Soluções
+3.787343
+365596 Soluções
+3.777088
+365596 Soluções
+3.574089
+15 rainhas - 8 omp threads - 3 processos
+2279184 Soluções
+26.001506
+2279184 Soluções
+25.014109
+2279184 Soluções
+26.651879
+2279184 Soluções
+25.763116
+2279184 Soluções
+23.593507
+16 rainhas - 8 omp threads - 3 processos
+14772512 Soluções
+157.677170
+14772512 Soluções
+181.384192
+14772512 Soluções
+177.565307
+14772512 Soluções
+171.864483
+14772512 Soluções
+180.322820
+4 rainhas - 1 omp threads - 4 processos
+2 Soluções
+0.085503
+2 Soluções
+0.091022
+2 Soluções
+0.096971
+2 Soluções
+0.089749
+2 Soluções
+0.088118
+5 rainhas - 1 omp threads - 4 processos
+10 Soluções
+0.082542
+10 Soluções
+0.082920
+10 Soluções
+0.090006
+10 Soluções
+0.091391
+10 Soluções
+0.085645
+6 rainhas - 1 omp threads - 4 processos
+4 Soluções
+0.091502
+4 Soluções
+0.088125
+4 Soluções
+0.087246
+4 Soluções
+0.085306
+4 Soluções
+0.081462
+7 rainhas - 1 omp threads - 4 processos
+40 Soluções
+0.084118
+40 Soluções
+0.088309
+40 Soluções
+0.094069
+40 Soluções
+0.089910
+40 Soluções
+0.090223
+8 rainhas - 1 omp threads - 4 processos
+92 Soluções
+0.087614
+92 Soluções
+0.091708
+92 Soluções
+0.090562
+92 Soluções
+0.090531
+92 Soluções
+0.087936
+9 rainhas - 1 omp threads - 4 processos
+352 Soluções
+0.085493
+352 Soluções
+0.093321
+352 Soluções
+0.093631
+352 Soluções
+0.085480
+352 Soluções
+0.095119
+10 rainhas - 1 omp threads - 4 processos
+724 Soluções
+0.090896
+724 Soluções
+0.088217
+724 Soluções
+0.085875
+724 Soluções
+0.090246
+724 Soluções
+0.083730
+11 rainhas - 1 omp threads - 4 processos
+2680 Soluções
+0.104723
+2680 Soluções
+0.113195
+2680 Soluções
+0.094638
+2680 Soluções
+0.104341
+2680 Soluções
+0.094495
+12 rainhas - 1 omp threads - 4 processos
+14200 Soluções
+0.179764
+14200 Soluções
+0.175202
+14200 Soluções
+0.195982
+14200 Soluções
+0.147068
+14200 Soluções
+0.211141
+13 rainhas - 1 omp threads - 4 processos
+73712 Soluções
+0.545349
+73712 Soluções
+0.557338
+73712 Soluções
+0.545379
+73712 Soluções
+0.690901
+73712 Soluções
+0.563619
+14 rainhas - 1 omp threads - 4 processos
+365596 Soluções
+2.885727
+365596 Soluções
+2.632191
+365596 Soluções
+2.714408
+365596 Soluções
+2.803506
+365596 Soluções
+2.758780
+15 rainhas - 1 omp threads - 4 processos
+2279184 Soluções
+17.116259
+2279184 Soluções
+17.132823
+2279184 Soluções
+16.956484
+2279184 Soluções
+17.128832
+2279184 Soluções
+16.928229
+16 rainhas - 1 omp threads - 4 processos
+14772512 Soluções
+132.525041
+14772512 Soluções
+131.624943
+14772512 Soluções
+130.481782
+14772512 Soluções
+133.377034
+14772512 Soluções
+131.284489
+4 rainhas - 2 omp threads - 4 processos
+2 Soluções
+0.085984
+2 Soluções
+0.085648
+2 Soluções
+0.095458
+2 Soluções
+0.087659
+2 Soluções
+0.097185
+5 rainhas - 2 omp threads - 4 processos
+10 Soluções
+0.091168
+10 Soluções
+0.093540
+10 Soluções
+0.094802
+10 Soluções
+0.091402
+10 Soluções
+0.095619
+6 rainhas - 2 omp threads - 4 processos
+4 Soluções
+0.087215
+4 Soluções
+0.088866
+4 Soluções
+0.085186
+4 Soluções
+0.087941
+4 Soluções
+0.087552
+7 rainhas - 2 omp threads - 4 processos
+40 Soluções
+0.090778
+40 Soluções
+0.085340
+40 Soluções
+0.089782
+40 Soluções
+0.093243
+40 Soluções
+0.090453
+8 rainhas - 2 omp threads - 4 processos
+92 Soluções
+0.098298
+92 Soluções
+0.091851
+92 Soluções
+0.086945
+92 Soluções
+0.089571
+92 Soluções
+0.088463
+9 rainhas - 2 omp threads - 4 processos
+352 Soluções
+0.093574
+352 Soluções
+0.082500
+352 Soluções
+0.091775
+352 Soluções
+0.093414
+352 Soluções
+0.084957
+10 rainhas - 2 omp threads - 4 processos
+724 Soluções
+0.097219
+724 Soluções
+0.090214
+724 Soluções
+0.089519
+724 Soluções
+0.097140
+724 Soluções
+0.093920
+11 rainhas - 2 omp threads - 4 processos
+2680 Soluções
+0.097118
+2680 Soluções
+0.104768
+2680 Soluções
+0.105500
+2680 Soluções
+0.104608
+2680 Soluções
+0.112548
+12 rainhas - 2 omp threads - 4 processos
+14200 Soluções
+0.172975
+14200 Soluções
+0.144175
+14200 Soluções
+0.177142
+14200 Soluções
+0.177659
+14200 Soluções
+0.160025
+13 rainhas - 2 omp threads - 4 processos
+73712 Soluções
+0.480762
+73712 Soluções
+0.552372
+73712 Soluções
+0.506672
+73712 Soluções
+0.597131
+73712 Soluções
+0.520113
+14 rainhas - 2 omp threads - 4 processos
+365596 Soluções
+2.601308
+365596 Soluções
+2.718231
+365596 Soluções
+2.726039
+365596 Soluções
+2.768115
+365596 Soluções
+2.807704
+15 rainhas - 2 omp threads - 4 processos
+2279184 Soluções
+17.176477
+2279184 Soluções
+17.102030
+2279184 Soluções
+17.043931
+2279184 Soluções
+17.033304
+2279184 Soluções
+17.072519
+16 rainhas - 2 omp threads - 4 processos
+14772512 Soluções
+131.918504
+14772512 Soluções
+131.277184
+14772512 Soluções
+129.941426
+14772512 Soluções
+136.668470
+14772512 Soluções
+132.501825
+4 rainhas - 4 omp threads - 4 processos
+2 Soluções
+0.084628
+2 Soluções
+0.088488
+2 Soluções
+0.092277
+2 Soluções
+0.086713
+2 Soluções
+0.086259
+5 rainhas - 4 omp threads - 4 processos
+10 Soluções
+0.084120
+10 Soluções
+0.090904
+10 Soluções
+0.088816
+10 Soluções
+0.087195
+10 Soluções
+0.083680
+6 rainhas - 4 omp threads - 4 processos
+4 Soluções
+0.090961
+4 Soluções
+0.087467
+4 Soluções
+0.089923
+4 Soluções
+0.088187
+4 Soluções
+0.087549
+7 rainhas - 4 omp threads - 4 processos
+40 Soluções
+0.096361
+40 Soluções
+0.088242
+40 Soluções
+0.088756
+40 Soluções
+0.092135
+40 Soluções
+0.088589
+8 rainhas - 4 omp threads - 4 processos
+92 Soluções
+0.093148
+92 Soluções
+0.088530
+92 Soluções
+0.090301
+92 Soluções
+0.086193
+92 Soluções
+0.091946
+9 rainhas - 4 omp threads - 4 processos
+352 Soluções
+0.081011
+352 Soluções
+0.086150
+352 Soluções
+0.085516
+352 Soluções
+0.093311
+352 Soluções
+0.091386
+10 rainhas - 4 omp threads - 4 processos
+724 Soluções
+0.090756
+724 Soluções
+0.093825
+724 Soluções
+0.088244
+724 Soluções
+0.090191
+724 Soluções
+0.092948
+11 rainhas - 4 omp threads - 4 processos
+2680 Soluções
+0.100162
+2680 Soluções
+0.104656
+2680 Soluções
+0.095967
+2680 Soluções
+0.106046
+2680 Soluções
+0.098862
+12 rainhas - 4 omp threads - 4 processos
+14200 Soluções
+0.175304
+14200 Soluções
+0.146948
+14200 Soluções
+0.172889
+14200 Soluções
+0.157997
+14200 Soluções
+0.144052
+13 rainhas - 4 omp threads - 4 processos
+73712 Soluções
+0.503003
+73712 Soluções
+0.514645
+73712 Soluções
+0.558537
+73712 Soluções
+0.548849
+73712 Soluções
+0.564859
+14 rainhas - 4 omp threads - 4 processos
+365596 Soluções
+2.776736
+365596 Soluções
+2.635360
+365596 Soluções
+2.765571
+365596 Soluções
+2.730667
+365596 Soluções
+2.686292
+15 rainhas - 4 omp threads - 4 processos
+2279184 Soluções
+17.010866
+2279184 Soluções
+17.060664
+2279184 Soluções
+17.172742
+2279184 Soluções
+17.134896
+2279184 Soluções
+17.253491
+16 rainhas - 4 omp threads - 4 processos
+14772512 Soluções
+131.298585
+14772512 Soluções
+131.420005
+14772512 Soluções
+131.652707
+14772512 Soluções
+132.268683
+14772512 Soluções
+128.646921
+4 rainhas - 8 omp threads - 4 processos
+2 Soluções
+0.084132
+2 Soluções
+0.087714
+2 Soluções
+0.090311
+2 Soluções
+0.087989
+2 Soluções
+0.093524
+5 rainhas - 8 omp threads - 4 processos
+10 Soluções
+0.096828
+10 Soluções
+0.088168
+10 Soluções
+0.085744
+10 Soluções
+0.086813
+10 Soluções
+0.086642
+6 rainhas - 8 omp threads - 4 processos
+4 Soluções
+0.087257
+4 Soluções
+0.086569
+4 Soluções
+0.083523
+4 Soluções
+0.090695
+4 Soluções
+0.092893
+7 rainhas - 8 omp threads - 4 processos
+40 Soluções
+0.095166
+40 Soluções
+0.087854
+40 Soluções
+0.088466
+40 Soluções
+0.086232
+40 Soluções
+0.089005
+8 rainhas - 8 omp threads - 4 processos
+92 Soluções
+0.098902
+92 Soluções
+0.088539
+92 Soluções
+0.089159
+92 Soluções
+0.091522
+92 Soluções
+0.086083
+9 rainhas - 8 omp threads - 4 processos
+352 Soluções
+0.093106
+352 Soluções
+0.087014
+352 Soluções
+0.098812
+352 Soluções
+0.085613
+352 Soluções
+0.081028
+10 rainhas - 8 omp threads - 4 processos
+724 Soluções
+0.087267
+724 Soluções
+0.092899
+724 Soluções
+0.091079
+724 Soluções
+0.088102
+724 Soluções
+0.093140
+11 rainhas - 8 omp threads - 4 processos
+2680 Soluções
+0.102976
+2680 Soluções
+0.101513
+2680 Soluções
+0.109679
+2680 Soluções
+0.102156
+2680 Soluções
+0.100660
+12 rainhas - 8 omp threads - 4 processos
+14200 Soluções
+0.185212
+14200 Soluções
+0.143932
+14200 Soluções
+0.184503
+14200 Soluções
+0.192617
+14200 Soluções
+0.144285
+13 rainhas - 8 omp threads - 4 processos
+73712 Soluções
+0.487362
+73712 Soluções
+0.547700
+73712 Soluções
+0.524210
+73712 Soluções
+0.557045
+73712 Soluções
+0.654628
+14 rainhas - 8 omp threads - 4 processos
+365596 Soluções
+2.873967
+365596 Soluções
+2.658013
+365596 Soluções
+2.904144
+365596 Soluções
+2.889759
+365596 Soluções
+2.749160
+15 rainhas - 8 omp threads - 4 processos
+2279184 Soluções
+17.253966
+2279184 Soluções
+17.386140
+2279184 Soluções
+17.022874
+2279184 Soluções
+17.157973
+2279184 Soluções
+16.992757
+16 rainhas - 8 omp threads - 4 processos
+14772512 Soluções
+131.788623
+14772512 Soluções
+130.837896
+14772512 Soluções
+132.693444
+14772512 Soluções
+132.725509
+14772512 Soluções
+132.487983
+4 rainhas - 1 omp threads - 5 processos
+2 Soluções
+0.092887
+2 Soluções
+0.100898
+2 Soluções
+0.088082
+2 Soluções
+0.090179
+2 Soluções
+0.094494
+5 rainhas - 1 omp threads - 5 processos
+10 Soluções
+0.095187
+10 Soluções
+0.097312
+10 Soluções
+0.101970
+10 Soluções
+0.091166
+10 Soluções
+0.099928
+6 rainhas - 1 omp threads - 5 processos
+4 Soluções
+0.095975
+4 Soluções
+0.092194
+4 Soluções
+0.096403
+4 Soluções
+0.090780
+4 Soluções
+0.099760
+7 rainhas - 1 omp threads - 5 processos
+40 Soluções
+0.097553
+40 Soluções
+0.095355
+40 Soluções
+0.099996
+40 Soluções
+0.103231
+40 Soluções
+0.100743
+8 rainhas - 1 omp threads - 5 processos
+92 Soluções
+0.101872
+92 Soluções
+0.100442
+92 Soluções
+0.092326
+92 Soluções
+0.095589
+92 Soluções
+0.095586
+9 rainhas - 1 omp threads - 5 processos
+352 Soluções
+0.097893
+352 Soluções
+0.095338
+352 Soluções
+0.116384
+352 Soluções
+0.124297
+352 Soluções
+0.095846
+10 rainhas - 1 omp threads - 5 processos
+724 Soluções
+0.143041
+724 Soluções
+0.096686
+724 Soluções
+0.120512
+724 Soluções
+0.087916
+724 Soluções
+0.096563
+11 rainhas - 1 omp threads - 5 processos
+2680 Soluções
+0.114683
+2680 Soluções
+0.117964
+2680 Soluções
+0.212729
+2680 Soluções
+0.099834
+2680 Soluções
+0.309834
+12 rainhas - 1 omp threads - 5 processos
+14200 Soluções
+0.248296
+14200 Soluções
+0.298569
+14200 Soluções
+0.189465
+14200 Soluções
+0.174323
+14200 Soluções
+0.187953
+13 rainhas - 1 omp threads - 5 processos
+73712 Soluções
+0.692438
+73712 Soluções
+0.574337
+73712 Soluções
+0.594269
+73712 Soluções
+0.812008
+73712 Soluções
+0.895936
+14 rainhas - 1 omp threads - 5 processos
+365596 Soluções
+3.107614
+365596 Soluções
+2.908660
+365596 Soluções
+3.058723
+365596 Soluções
+2.814618
+365596 Soluções
+2.903848
+15 rainhas - 1 omp threads - 5 processos
+2279184 Soluções
+17.106758
+2279184 Soluções
+17.381463
+2279184 Soluções
+17.237044
+2279184 Soluções
+17.289446
+2279184 Soluções
+17.254109
+16 rainhas - 1 omp threads - 5 processos
+14772512 Soluções
+117.260690
+14772512 Soluções
+116.782112
+14772512 Soluções
+117.441518
+14772512 Soluções
+117.223602
+14772512 Soluções
+118.315207
+4 rainhas - 2 omp threads - 5 processos
+2 Soluções
+0.091459
+2 Soluções
+0.099928
+2 Soluções
+0.097651
+2 Soluções
+0.094698
+2 Soluções
+0.107236
+5 rainhas - 2 omp threads - 5 processos
+10 Soluções
+0.098147
+10 Soluções
+0.094468
+10 Soluções
+0.087979
+10 Soluções
+0.102104
+10 Soluções
+0.092518
+6 rainhas - 2 omp threads - 5 processos
+4 Soluções
+0.087791
+4 Soluções
+0.094072
+4 Soluções
+0.097683
+4 Soluções
+0.095003
+4 Soluções
+0.094950
+7 rainhas - 2 omp threads - 5 processos
+40 Soluções
+0.096157
+40 Soluções
+0.099188
+40 Soluções
+0.100012
+40 Soluções
+0.102126
+40 Soluções
+0.100266
+8 rainhas - 2 omp threads - 5 processos
+92 Soluções
+0.103489
+92 Soluções
+0.098069
+92 Soluções
+0.098272
+92 Soluções
+0.093814
+92 Soluções
+0.102584
+9 rainhas - 2 omp threads - 5 processos
+352 Soluções
+0.096039
+352 Soluções
+0.099492
+352 Soluções
+0.104950
+352 Soluções
+0.090399
+352 Soluções
+0.097797
+10 rainhas - 2 omp threads - 5 processos
+724 Soluções
+0.092733
+724 Soluções
+0.102704
+724 Soluções
+0.098382
+724 Soluções
+0.098548
+724 Soluções
+0.097878
+11 rainhas - 2 omp threads - 5 processos
+2680 Soluções
+0.191902
+2680 Soluções
+0.171567
+2680 Soluções
+0.114395
+2680 Soluções
+0.105926
+2680 Soluções
+0.116099
+12 rainhas - 2 omp threads - 5 processos
+14200 Soluções
+0.168650
+14200 Soluções
+0.207617
+14200 Soluções
+0.186230
+14200 Soluções
+0.182386
+14200 Soluções
+0.253416
+13 rainhas - 2 omp threads - 5 processos
+73712 Soluções
+0.660835
+73712 Soluções
+0.655242
+73712 Soluções
+0.571682
+73712 Soluções
+0.681561
+73712 Soluções
+0.720588
+14 rainhas - 2 omp threads - 5 processos
+365596 Soluções
+2.824945
+365596 Soluções
+2.944893
+365596 Soluções
+2.915163
+365596 Soluções
+2.949569
+365596 Soluções
+2.695954
+15 rainhas - 2 omp threads - 5 processos
+2279184 Soluções
+17.524296
+2279184 Soluções
+17.554546
+2279184 Soluções
+17.810726
+2279184 Soluções
+17.571315
+2279184 Soluções
+17.585988
+16 rainhas - 2 omp threads - 5 processos
+14772512 Soluções
+122.407096
+14772512 Soluções
+118.915756
+14772512 Soluções
+117.164960
+14772512 Soluções
+118.164592
+14772512 Soluções
+118.785152
+4 rainhas - 4 omp threads - 5 processos
+2 Soluções
+0.082059
+2 Soluções
+0.080353
+2 Soluções
+0.096486
+2 Soluções
+0.092061
+2 Soluções
+0.091886
+5 rainhas - 4 omp threads - 5 processos
+10 Soluções
+0.098805
+10 Soluções
+0.085360
+10 Soluções
+0.095889
+10 Soluções
+0.088686
+10 Soluções
+0.093415
+6 rainhas - 4 omp threads - 5 processos
+4 Soluções
+0.093063
+4 Soluções
+0.097113
+4 Soluções
+0.093736
+4 Soluções
+0.089843
+4 Soluções
+0.089964
+7 rainhas - 4 omp threads - 5 processos
+40 Soluções
+0.091412
+40 Soluções
+0.084277
+40 Soluções
+0.085033
+40 Soluções
+0.090943
+40 Soluções
+0.095338
+8 rainhas - 4 omp threads - 5 processos
+92 Soluções
+0.090423
+92 Soluções
+0.092802
+92 Soluções
+0.090796
+92 Soluções
+0.088421
+92 Soluções
+0.090109
+9 rainhas - 4 omp threads - 5 processos
+352 Soluções
+0.093591
+352 Soluções
+0.091747
+352 Soluções
+0.092697
+352 Soluções
+0.116740
+352 Soluções
+0.109331
+10 rainhas - 4 omp threads - 5 processos
+724 Soluções
+0.123807
+724 Soluções
+0.090402
+724 Soluções
+0.135018
+724 Soluções
+0.085726
+724 Soluções
+0.081951
+11 rainhas - 4 omp threads - 5 processos
+2680 Soluções
+0.157248
+2680 Soluções
+0.160173
+2680 Soluções
+0.135556
+2680 Soluções
+0.158644
+2680 Soluções
+0.097463
+12 rainhas - 4 omp threads - 5 processos
+14200 Soluções
+0.255280
+14200 Soluções
+0.175347
+14200 Soluções
+0.173243
+14200 Soluções
+0.257751
+14200 Soluções
+0.259433
+13 rainhas - 4 omp threads - 5 processos
+73712 Soluções
+0.599000
+73712 Soluções
+0.626378
+73712 Soluções
+0.617070
+73712 Soluções
+0.805070
+73712 Soluções
+0.516654
+14 rainhas - 4 omp threads - 5 processos
+365596 Soluções
+2.872093
+365596 Soluções
+2.742459
+365596 Soluções
+3.037147
+365596 Soluções
+2.625029
+365596 Soluções
+3.246066
+15 rainhas - 4 omp threads - 5 processos
+2279184 Soluções
+17.179327
+2279184 Soluções
+17.815812
+2279184 Soluções
+17.182071
+2279184 Soluções
+17.503201
+2279184 Soluções
+17.976814
+16 rainhas - 4 omp threads - 5 processos
+14772512 Soluções
+118.088439
+14772512 Soluções
+120.399138
+14772512 Soluções
+120.736023
+14772512 Soluções
+117.094082
+14772512 Soluções
+119.142039
+4 rainhas - 8 omp threads - 5 processos
+2 Soluções
+0.086636
+2 Soluções
+0.099110
+2 Soluções
+0.099961
+2 Soluções
+0.097047
+2 Soluções
+0.098111
+5 rainhas - 8 omp threads - 5 processos
+10 Soluções
+0.101905
+10 Soluções
+0.102787
+10 Soluções
+0.093501
+10 Soluções
+0.095296
+10 Soluções
+0.095149
+6 rainhas - 8 omp threads - 5 processos
+4 Soluções
+0.104506
+4 Soluções
+0.090291
+4 Soluções
+0.094748
+4 Soluções
+0.101337
+4 Soluções
+0.104234
+7 rainhas - 8 omp threads - 5 processos
+40 Soluções
+0.091769
+40 Soluções
+0.099287
+40 Soluções
+0.101599
+40 Soluções
+0.097184
+40 Soluções
+0.103152
+8 rainhas - 8 omp threads - 5 processos
+92 Soluções
+0.099608
+92 Soluções
+0.100337
+92 Soluções
+0.092164
+92 Soluções
+0.104608
+92 Soluções
+0.107686
+9 rainhas - 8 omp threads - 5 processos
+352 Soluções
+0.094404
+352 Soluções
+0.096957
+352 Soluções
+0.098902
+352 Soluções
+0.094298
+352 Soluções
+0.094095
+10 rainhas - 8 omp threads - 5 processos
+724 Soluções
+0.107285
+724 Soluções
+0.098932
+724 Soluções
+0.093688
+724 Soluções
+0.147185
+724 Soluções
+0.141090
+11 rainhas - 8 omp threads - 5 processos
+2680 Soluções
+0.118227
+2680 Soluções
+0.111234
+2680 Soluções
+0.110691
+2680 Soluções
+0.113326
+2680 Soluções
+0.121031
+12 rainhas - 8 omp threads - 5 processos
+14200 Soluções
+0.189838
+14200 Soluções
+0.210657
+14200 Soluções
+0.211355
+14200 Soluções
+0.178085
+14200 Soluções
+0.180741
+13 rainhas - 8 omp threads - 5 processos
+73712 Soluções
+0.684731
+73712 Soluções
+0.750254
+73712 Soluções
+0.780437
+73712 Soluções
+0.626706
+73712 Soluções
+0.642591
+14 rainhas - 8 omp threads - 5 processos
+365596 Soluções
+2.977666
+365596 Soluções
+3.133604
+365596 Soluções
+3.034976
+365596 Soluções
+2.715348
+365596 Soluções
+2.738786
+15 rainhas - 8 omp threads - 5 processos
+2279184 Soluções
+17.587891
+2279184 Soluções
+17.525872
+2279184 Soluções
+17.844933
+2279184 Soluções
+17.367650
+2279184 Soluções
+17.649630
+16 rainhas - 8 omp threads - 5 processos
+14772512 Soluções
+119.075568
+14772512 Soluções
+116.615487
+14772512 Soluções
+117.114873
+14772512 Soluções
+117.424535
+14772512 Soluções
+119.674370
+4 rainhas - 1 omp threads - 6 processos
+2 Soluções
+0.103200
+2 Soluções
+0.101202
+2 Soluções
+0.107705
+2 Soluções
+0.101947
+2 Soluções
+0.104334
+5 rainhas - 1 omp threads - 6 processos
+10 Soluções
+0.104198
+10 Soluções
+0.099286
+10 Soluções
+0.094235
+10 Soluções
+0.101730
+10 Soluções
+0.097981
+6 rainhas - 1 omp threads - 6 processos
+4 Soluções
+0.101669
+4 Soluções
+0.098524
+4 Soluções
+0.102952
+4 Soluções
+0.098775
+4 Soluções
+0.094874
+7 rainhas - 1 omp threads - 6 processos
+40 Soluções
+0.103623
+40 Soluções
+0.099898
+40 Soluções
+0.092724
+40 Soluções
+0.097797
+40 Soluções
+0.109295
+8 rainhas - 1 omp threads - 6 processos
+92 Soluções
+0.094534
+92 Soluções
+0.097305
+92 Soluções
+0.103586
+92 Soluções
+0.103671
+92 Soluções
+0.095070
+9 rainhas - 1 omp threads - 6 processos
+352 Soluções
+0.097067
+352 Soluções
+0.096472
+352 Soluções
+0.112006
+352 Soluções
+0.096362
+352 Soluções
+0.099187
+10 rainhas - 1 omp threads - 6 processos
+724 Soluções
+0.101706
+724 Soluções
+0.100943
+724 Soluções
+0.119103
+724 Soluções
+0.106894
+724 Soluções
+0.112688
+11 rainhas - 1 omp threads - 6 processos
+2680 Soluções
+0.211331
+2680 Soluções
+0.102430
+2680 Soluções
+0.115162
+2680 Soluções
+0.156765
+2680 Soluções
+0.125538
+12 rainhas - 1 omp threads - 6 processos
+14200 Soluções
+0.205975
+14200 Soluções
+0.200713
+14200 Soluções
+0.236085
+14200 Soluções
+0.179944
+14200 Soluções
+0.392626
+13 rainhas - 1 omp threads - 6 processos
+73712 Soluções
+0.839068
+73712 Soluções
+0.628859
+73712 Soluções
+0.619972
+73712 Soluções
+0.785024
+73712 Soluções
+0.641067
+14 rainhas - 1 omp threads - 6 processos
+365596 Soluções
+3.139948
+365596 Soluções
+2.904343
+365596 Soluções
+3.058875
+365596 Soluções
+2.867036
+365596 Soluções
+2.840616
+15 rainhas - 1 omp threads - 6 processos
+2279184 Soluções
+19.013466
+2279184 Soluções
+16.797975
+2279184 Soluções
+18.106554
+2279184 Soluções
+17.829217
+2279184 Soluções
+18.000720
+16 rainhas - 1 omp threads - 6 processos
+14772512 Soluções
+123.811847
+4 rainhas - 2 omp threads - 6 processos
+2 Soluções
+0.101643
+2 Soluções
+0.100069
+2 Soluções
+0.092592
+2 Soluções
+0.095367
+2 Soluções
+0.101691
+5 rainhas - 2 omp threads - 6 processos
+10 Soluções
+0.106428
+10 Soluções
+0.105552
+10 Soluções
+0.100702
+10 Soluções
+0.100182
+10 Soluções
+0.103370
+6 rainhas - 2 omp threads - 6 processos
+4 Soluções
+0.089419
+4 Soluções
+0.094617
+4 Soluções
+0.094582
+4 Soluções
+0.100549
+4 Soluções
+0.107795
+7 rainhas - 2 omp threads - 6 processos
+40 Soluções
+0.100124
+40 Soluções
+0.104731
+40 Soluções
+0.093659
+40 Soluções
+0.098043
+40 Soluções
+0.097441
+8 rainhas - 2 omp threads - 6 processos
+92 Soluções
+0.102910
+92 Soluções
+0.107909
+92 Soluções
+0.096824
+92 Soluções
+0.101598
+92 Soluções
+0.098408
+9 rainhas - 2 omp threads - 6 processos
+352 Soluções
+0.100149
+352 Soluções
+0.096976
+352 Soluções
+0.103925
+352 Soluções
+0.092903
+352 Soluções
+0.101182
+10 rainhas - 2 omp threads - 6 processos
+724 Soluções
+0.103718
+724 Soluções
+0.106915
+724 Soluções
+0.101371
+724 Soluções
+0.106647
+724 Soluções
+0.103714
+11 rainhas - 2 omp threads - 6 processos
+2680 Soluções
+0.172420
+2680 Soluções
+0.137941
+2680 Soluções
+0.112876
+2680 Soluções
+0.167283
+2680 Soluções
+0.176114
+12 rainhas - 2 omp threads - 6 processos
+14200 Soluções
+0.197960
+14200 Soluções
+0.351964
+14200 Soluções
+0.270519
+14200 Soluções
+0.316623
+14200 Soluções
+0.246067
+13 rainhas - 2 omp threads - 6 processos
+73712 Soluções
+0.688496
+73712 Soluções
+0.601526
+73712 Soluções
+0.631796
+73712 Soluções
+0.657652
+73712 Soluções
+0.670830
+14 rainhas - 2 omp threads - 6 processos
+365596 Soluções
+3.155077
+365596 Soluções
+3.294535
+365596 Soluções
+3.034594
+365596 Soluções
+2.771358
+365596 Soluções
+3.762237
+15 rainhas - 2 omp threads - 6 processos
+2279184 Soluções
+18.823474
+2279184 Soluções
+18.013679
+2279184 Soluções
+18.790716
+2279184 Soluções
+16.003381
+2279184 Soluções
+17.618109
+16 rainhas - 2 omp threads - 6 processos
+14772512 Soluções
+129.591122
+4 rainhas - 4 omp threads - 6 processos
+2 Soluções
+0.096483
+2 Soluções
+0.104198
+2 Soluções
+0.100204
+2 Soluções
+0.096523
+2 Soluções
+0.092152
+5 rainhas - 4 omp threads - 6 processos
+10 Soluções
+0.101219
+10 Soluções
+0.104606
+10 Soluções
+0.107102
+10 Soluções
+0.106926
+10 Soluções
+0.099134
+6 rainhas - 4 omp threads - 6 processos
+4 Soluções
+0.100597
+4 Soluções
+0.103060
+4 Soluções
+0.112000
+4 Soluções
+0.107118
+4 Soluções
+0.096820
+7 rainhas - 4 omp threads - 6 processos
+40 Soluções
+0.092613
+40 Soluções
+0.097013
+40 Soluções
+0.099035
+40 Soluções
+0.092561
+40 Soluções
+0.103557
+8 rainhas - 4 omp threads - 6 processos
+92 Soluções
+0.094611
+92 Soluções
+0.116783
+92 Soluções
+0.100552
+92 Soluções
+0.105933
+92 Soluções
+0.097630
+9 rainhas - 4 omp threads - 6 processos
+352 Soluções
+0.093328
+352 Soluções
+0.093946
+352 Soluções
+0.100801
+352 Soluções
+0.103414
+352 Soluções
+0.100069
+10 rainhas - 4 omp threads - 6 processos
+724 Soluções
+0.100882
+724 Soluções
+0.104030
+724 Soluções
+0.109724
+724 Soluções
+0.099565
+724 Soluções
+0.111666
+11 rainhas - 4 omp threads - 6 processos
+2680 Soluções
+0.122990
+2680 Soluções
+0.125037
+2680 Soluções
+0.159875
+2680 Soluções
+0.124202
+2680 Soluções
+0.164177
+12 rainhas - 4 omp threads - 6 processos
+14200 Soluções
+0.235612
+14200 Soluções
+0.306477
+14200 Soluções
+0.271437
+14200 Soluções
+0.210218
+14200 Soluções
+0.180418
+13 rainhas - 4 omp threads - 6 processos
+73712 Soluções
+0.720047
+73712 Soluções
+0.590420
+73712 Soluções
+0.686928
+73712 Soluções
+0.597991
+73712 Soluções
+0.664817
+14 rainhas - 4 omp threads - 6 processos
+365596 Soluções
+2.890373
+365596 Soluções
+3.193949
+365596 Soluções
+2.838827
+365596 Soluções
+3.245094
+365596 Soluções
+3.325321
+15 rainhas - 4 omp threads - 6 processos
+2279184 Soluções
+17.570894
+2279184 Soluções
+18.149139
+2279184 Soluções
+17.393845
+2279184 Soluções
+18.636846
+2279184 Soluções
+17.470422
+16 rainhas - 4 omp threads - 6 processos
+14772512 Soluções
+121.378607
+4 rainhas - 8 omp threads - 6 processos
+2 Soluções
+0.090396
+2 Soluções
+0.103842
+2 Soluções
+0.104541
+2 Soluções
+0.100499
+2 Soluções
+0.106844
+5 rainhas - 8 omp threads - 6 processos
+10 Soluções
+0.093595
+10 Soluções
+0.105154
+10 Soluções
+0.104084
+10 Soluções
+0.095647
+10 Soluções
+0.099159
+6 rainhas - 8 omp threads - 6 processos
+4 Soluções
+0.104346
+4 Soluções
+0.094449
+4 Soluções
+0.099582
+4 Soluções
+0.092728
+4 Soluções
+0.096457
+7 rainhas - 8 omp threads - 6 processos
+40 Soluções
+0.112185
+40 Soluções
+0.105593
+40 Soluções
+0.093986
+40 Soluções
+0.089099
+40 Soluções
+0.093761
+8 rainhas - 8 omp threads - 6 processos
+92 Soluções
+0.098397
+92 Soluções
+0.105097
+92 Soluções
+0.115390
+92 Soluções
+0.088771
+92 Soluções
+0.106044
+9 rainhas - 8 omp threads - 6 processos
+352 Soluções
+0.095392
+352 Soluções
+0.103855
+352 Soluções
+0.102148
+352 Soluções
+0.097699
+352 Soluções
+0.092273
+10 rainhas - 8 omp threads - 6 processos
+724 Soluções
+0.101718
+724 Soluções
+0.112597
+724 Soluções
+0.117322
+724 Soluções
+0.107234
+724 Soluções
+0.102611
+11 rainhas - 8 omp threads - 6 processos
+2680 Soluções
+0.122470
+2680 Soluções
+0.117562
+2680 Soluções
+0.120237
+2680 Soluções
+0.113525
+2680 Soluções
+0.163566
+12 rainhas - 8 omp threads - 6 processos
+14200 Soluções
+0.299254
+14200 Soluções
+0.248044
+14200 Soluções
+0.233270
+14200 Soluções
+0.180673
+14200 Soluções
+0.555116
+13 rainhas - 8 omp threads - 6 processos
+73712 Soluções
+0.667915
+73712 Soluções
+0.842985
+73712 Soluções
+0.614166
+73712 Soluções
+0.846767
+73712 Soluções
+0.915830
+14 rainhas - 8 omp threads - 6 processos
+365596 Soluções
+3.048828
+365596 Soluções
+2.807035
+365596 Soluções
+4.187379
+365596 Soluções
+2.693409
+365596 Soluções
+2.896701
+15 rainhas - 8 omp threads - 6 processos
+2279184 Soluções
+17.496554
+2279184 Soluções
+18.842429
+2279184 Soluções
+18.464364
+2279184 Soluções
+18.586757
+2279184 Soluções
+16.697652
+16 rainhas - 8 omp threads - 6 processos
+14772512 Soluções
+137.632778
+14772512 Soluções
+140.356683

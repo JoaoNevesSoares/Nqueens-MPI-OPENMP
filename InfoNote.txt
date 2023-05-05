@@ -1,0 +1,16 @@
+Prossessador: 
+Intel® Core™ i5-5200U CPU
+2 Núcleos de CPU
+4 Threads
+Clock: 2.20GHz
+Cachê L2: 256KB
+Cachê L3: 3MB
+
+RAM:
+8GB DDR3 2700MHz
+
+Sistema Operacional:
+Ubuntu 22.04.2 LTS 
+64 bits
+
+Observações: Como o dispositivo é um notebook, os testes foram feitos com o dispositivo na tomada para obter maior desempenho.

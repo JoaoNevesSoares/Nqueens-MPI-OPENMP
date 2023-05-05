@@ -1,0 +1,27 @@
+4 rainhas - single
+Média: 0.00000300000000000000
+5 rainhas - single
+Média: 0.00000740000000000000
+6 rainhas - single
+Média: 0.00002640000000000000
+7 rainhas - single
+Média: 0.00009940000000000000
+8 rainhas - single
+Média: 0.00041400000000000000
+9 rainhas - single
+Média: 0.00202540000000000000
+10 rainhas - single
+Média: 0.00946680000000000000
+11 rainhas - single
+Média: 0.05213320000000000000
+12 rainhas - single
+Média: 0.26316380000000000000
+13 rainhas - single
+Média: 1.57424600000000000000
+14 rainhas - single
+Média: 10.58251500000000000000
+15 rainhas - single
+Média: 68.43425800000000000000
+16 rainhas - single
+Média: 501.61642120000000000000
+

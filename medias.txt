@@ -1,0 +1,521 @@
+4 rainhas - 1 omp threads - 2 processos
+Média: .02985620000000000000
+5 rainhas - 1 omp threads - 2 processos
+Média: .02973080000000000000
+6 rainhas - 1 omp threads - 2 processos
+Média: .02935840000000000000
+7 rainhas - 1 omp threads - 2 processos
+Média: .02970000000000000000
+8 rainhas - 1 omp threads - 2 processos
+Média: .03043940000000000000
+9 rainhas - 1 omp threads - 2 processos
+Média: .03177300000000000000
+10 rainhas - 1 omp threads - 2 processos
+Média: .03483560000000000000
+11 rainhas - 1 omp threads - 2 processos
+Média: .05742860000000000000
+12 rainhas - 1 omp threads - 2 processos
+Média: .16907760000000000000
+13 rainhas - 1 omp threads - 2 processos
+Média: .81915540000000000000
+14 rainhas - 1 omp threads - 2 processos
+Média: 5.04284820000000000000
+15 rainhas - 1 omp threads - 2 processos
+Média: 33.71068640000000000000
+16 rainhas - 1 omp threads - 2 processos
+Média: 238.66809140000000000000
+4 rainhas - 2 omp threads - 2 processos
+Média: .03048400000000000000
+5 rainhas - 2 omp threads - 2 processos
+Média: .02880920000000000000
+6 rainhas - 2 omp threads - 2 processos
+Média: .02960260000000000000
+7 rainhas - 2 omp threads - 2 processos
+Média: .02908740000000000000
+8 rainhas - 2 omp threads - 2 processos
+Média: .02908640000000000000
+9 rainhas - 2 omp threads - 2 processos
+Média: .02960880000000000000
+10 rainhas - 2 omp threads - 2 processos
+Média: .03300900000000000000
+11 rainhas - 2 omp threads - 2 processos
+Média: .05103400000000000000
+12 rainhas - 2 omp threads - 2 processos
+Média: .15859860000000000000
+13 rainhas - 2 omp threads - 2 processos
+Média: .81603460000000000000
+14 rainhas - 2 omp threads - 2 processos
+Média: 5.03905260000000000000
+15 rainhas - 2 omp threads - 2 processos
+Média: 33.64234300000000000000
+16 rainhas - 2 omp threads - 2 processos
+Média: 238.76250600000000000000
+4 rainhas - 4 omp threads - 2 processos
+Média: .02903580000000000000
+5 rainhas - 4 omp threads - 2 processos
+Média: .02917540000000000000
+6 rainhas - 4 omp threads - 2 processos
+Média: .03003120000000000000
+7 rainhas - 4 omp threads - 2 processos
+Média: .02962620000000000000
+8 rainhas - 4 omp threads - 2 processos
+Média: .02985700000000000000
+9 rainhas - 4 omp threads - 2 processos
+Média: .03008600000000000000
+10 rainhas - 4 omp threads - 2 processos
+Média: .03271900000000000000
+11 rainhas - 4 omp threads - 2 processos
+Média: .05054060000000000000
+12 rainhas - 4 omp threads - 2 processos
+Média: .15765780000000000000
+13 rainhas - 4 omp threads - 2 processos
+Média: .81543220000000000000
+14 rainhas - 4 omp threads - 2 processos
+Média: 5.04250740000000000000
+15 rainhas - 4 omp threads - 2 processos
+Média: 33.66104220000000000000
+16 rainhas - 4 omp threads - 2 processos
+Média: 238.10110020000000000000
+4 rainhas - 8 omp threads - 2 processos
+Média: .02959620000000000000
+5 rainhas - 8 omp threads - 2 processos
+Média: .02841940000000000000
+6 rainhas - 8 omp threads - 2 processos
+Média: .02856500000000000000
+7 rainhas - 8 omp threads - 2 processos
+Média: .02972480000000000000
+8 rainhas - 8 omp threads - 2 processos
+Média: .02924820000000000000
+9 rainhas - 8 omp threads - 2 processos
+Média: .03108380000000000000
+10 rainhas - 8 omp threads - 2 processos
+Média: .03232480000000000000
+11 rainhas - 8 omp threads - 2 processos
+Média: .05094000000000000000
+12 rainhas - 8 omp threads - 2 processos
+Média: .15802300000000000000
+13 rainhas - 8 omp threads - 2 processos
+Média: .81535120000000000000
+14 rainhas - 8 omp threads - 2 processos
+Média: 5.04261680000000000000
+15 rainhas - 8 omp threads - 2 processos
+Média: 33.68228060000000000000
+16 rainhas - 8 omp threads - 2 processos
+Média: 238.43148080000000000000
+4 rainhas - 1 omp threads - 3 processos
+Média: .08268580000000000000
+5 rainhas - 1 omp threads - 3 processos
+Média: .08602540000000000000
+6 rainhas - 1 omp threads - 3 processos
+Média: .08678320000000000000
+7 rainhas - 1 omp threads - 3 processos
+Média: .07425060000000000000
+8 rainhas - 1 omp threads - 3 processos
+Média: .07421400000000000000
+9 rainhas - 1 omp threads - 3 processos
+Média: .07920220000000000000
+10 rainhas - 1 omp threads - 3 processos
+Média: .07827120000000000000
+11 rainhas - 1 omp threads - 3 processos
+Média: .09259020000000000000
+12 rainhas - 1 omp threads - 3 processos
+Média: .16443120000000000000
+13 rainhas - 1 omp threads - 3 processos
+Média: .63664280000000000000
+14 rainhas - 1 omp threads - 3 processos
+Média: 3.56371560000000000000
+15 rainhas - 1 omp threads - 3 processos
+Média: 24.71726560000000000000
+16 rainhas - 1 omp threads - 3 processos
+Média: 173.16292440000000000000
+4 rainhas - 2 omp threads - 3 processos
+Média: .08321860000000000000
+5 rainhas - 2 omp threads - 3 processos
+Média: .08433240000000000000
+6 rainhas - 2 omp threads - 3 processos
+Média: .08340120000000000000
+7 rainhas - 2 omp threads - 3 processos
+Média: .08831520000000000000
+8 rainhas - 2 omp threads - 3 processos
+Média: .08630800000000000000
+9 rainhas - 2 omp threads - 3 processos
+Média: .08573860000000000000
+10 rainhas - 2 omp threads - 3 processos
+Média: .08759000000000000000
+11 rainhas - 2 omp threads - 3 processos
+Média: .10144660000000000000
+12 rainhas - 2 omp threads - 3 processos
+Média: .18074480000000000000
+13 rainhas - 2 omp threads - 3 processos
+Média: .64449540000000000000
+14 rainhas - 2 omp threads - 3 processos
+Média: 3.57800340000000000000
+15 rainhas - 2 omp threads - 3 processos
+Média: 23.67551420000000000000
+16 rainhas - 2 omp threads - 3 processos
+Média: 172.86167260000000000000
+4 rainhas - 4 omp threads - 3 processos
+Média: .07699580000000000000
+5 rainhas - 4 omp threads - 3 processos
+Média: .06995800000000000000
+6 rainhas - 4 omp threads - 3 processos
+Média: .07036220000000000000
+7 rainhas - 4 omp threads - 3 processos
+Média: .07505420000000000000
+8 rainhas - 4 omp threads - 3 processos
+Média: .07311380000000000000
+9 rainhas - 4 omp threads - 3 processos
+Média: .07808780000000000000
+10 rainhas - 4 omp threads - 3 processos
+Média: .07377720000000000000
+11 rainhas - 4 omp threads - 3 processos
+Média: .08853920000000000000
+12 rainhas - 4 omp threads - 3 processos
+Média: .16692740000000000000
+13 rainhas - 4 omp threads - 3 processos
+Média: .64839820000000000000
+14 rainhas - 4 omp threads - 3 processos
+Média: 3.45697180000000000000
+15 rainhas - 4 omp threads - 3 processos
+Média: 23.36293060000000000000
+16 rainhas - 4 omp threads - 3 processos
+Média: 166.76210160000000000000
+4 rainhas - 8 omp threads - 3 processos
+Média: .07420360000000000000
+5 rainhas - 8 omp threads - 3 processos
+Média: .07426780000000000000
+6 rainhas - 8 omp threads - 3 processos
+Média: .07123580000000000000
+7 rainhas - 8 omp threads - 3 processos
+Média: .07779680000000000000
+8 rainhas - 8 omp threads - 3 processos
+Média: .07785800000000000000
+9 rainhas - 8 omp threads - 3 processos
+Média: .07228880000000000000
+10 rainhas - 8 omp threads - 3 processos
+Média: .07511640000000000000
+11 rainhas - 8 omp threads - 3 processos
+Média: .08567000000000000000
+12 rainhas - 8 omp threads - 3 processos
+Média: .16344680000000000000
+13 rainhas - 8 omp threads - 3 processos
+Média: .67758380000000000000
+14 rainhas - 8 omp threads - 3 processos
+Média: 3.68889700000000000000
+15 rainhas - 8 omp threads - 3 processos
+Média: 25.40482340000000000000
+16 rainhas - 8 omp threads - 3 processos
+Média: 173.76279440000000000000
+4 rainhas - 1 omp threads - 4 processos
+Média: .09027260000000000000
+5 rainhas - 1 omp threads - 4 processos
+Média: .08650080000000000000
+6 rainhas - 1 omp threads - 4 processos
+Média: .08672820000000000000
+7 rainhas - 1 omp threads - 4 processos
+Média: .08932580000000000000
+8 rainhas - 1 omp threads - 4 processos
+Média: .08967020000000000000
+9 rainhas - 1 omp threads - 4 processos
+Média: .09060880000000000000
+10 rainhas - 1 omp threads - 4 processos
+Média: .08779280000000000000
+11 rainhas - 1 omp threads - 4 processos
+Média: .10227840000000000000
+12 rainhas - 1 omp threads - 4 processos
+Média: .18183140000000000000
+13 rainhas - 1 omp threads - 4 processos
+Média: .58051720000000000000
+14 rainhas - 1 omp threads - 4 processos
+Média: 2.75892240000000000000
+15 rainhas - 1 omp threads - 4 processos
+Média: 17.05252540000000000000
+16 rainhas - 1 omp threads - 4 processos
+Média: 131.85865780000000000000
+4 rainhas - 2 omp threads - 4 processos
+Média: .09038680000000000000
+5 rainhas - 2 omp threads - 4 processos
+Média: .09330620000000000000
+6 rainhas - 2 omp threads - 4 processos
+Média: .08735200000000000000
+7 rainhas - 2 omp threads - 4 processos
+Média: .08991920000000000000
+8 rainhas - 2 omp threads - 4 processos
+Média: .09102560000000000000
+9 rainhas - 2 omp threads - 4 processos
+Média: .08924400000000000000
+10 rainhas - 2 omp threads - 4 processos
+Média: .09360240000000000000
+11 rainhas - 2 omp threads - 4 processos
+Média: .10490840000000000000
+12 rainhas - 2 omp threads - 4 processos
+Média: .16639520000000000000
+13 rainhas - 2 omp threads - 4 processos
+Média: .53141000000000000000
+14 rainhas - 2 omp threads - 4 processos
+Média: 2.72427940000000000000
+15 rainhas - 2 omp threads - 4 processos
+Média: 17.08565220000000000000
+16 rainhas - 2 omp threads - 4 processos
+Média: 132.46148180000000000000
+4 rainhas - 4 omp threads - 4 processos
+Média: .08767300000000000000
+5 rainhas - 4 omp threads - 4 processos
+Média: .08694300000000000000
+6 rainhas - 4 omp threads - 4 processos
+Média: .08881740000000000000
+7 rainhas - 4 omp threads - 4 processos
+Média: .09081660000000000000
+8 rainhas - 4 omp threads - 4 processos
+Média: .09002360000000000000
+9 rainhas - 4 omp threads - 4 processos
+Média: .08747480000000000000
+10 rainhas - 4 omp threads - 4 processos
+Média: .09119280000000000000
+11 rainhas - 4 omp threads - 4 processos
+Média: .10113860000000000000
+12 rainhas - 4 omp threads - 4 processos
+Média: .15943800000000000000
+13 rainhas - 4 omp threads - 4 processos
+Média: .53797860000000000000
+14 rainhas - 4 omp threads - 4 processos
+Média: 2.71892520000000000000
+15 rainhas - 4 omp threads - 4 processos
+Média: 17.12653180000000000000
+16 rainhas - 4 omp threads - 4 processos
+Média: 131.05738020000000000000
+4 rainhas - 8 omp threads - 4 processos
+Média: .08873400000000000000
+5 rainhas - 8 omp threads - 4 processos
+Média: .08883900000000000000
+6 rainhas - 8 omp threads - 4 processos
+Média: .08818740000000000000
+7 rainhas - 8 omp threads - 4 processos
+Média: .08934460000000000000
+8 rainhas - 8 omp threads - 4 processos
+Média: .09084100000000000000
+9 rainhas - 8 omp threads - 4 processos
+Média: .08911460000000000000
+10 rainhas - 8 omp threads - 4 processos
+Média: .09049740000000000000
+11 rainhas - 8 omp threads - 4 processos
+Média: .10339680000000000000
+12 rainhas - 8 omp threads - 4 processos
+Média: .17010980000000000000
+13 rainhas - 8 omp threads - 4 processos
+Média: .55418900000000000000
+14 rainhas - 8 omp threads - 4 processos
+Média: 2.81500860000000000000
+15 rainhas - 8 omp threads - 4 processos
+Média: 17.16274200000000000000
+16 rainhas - 8 omp threads - 4 processos
+Média: 132.10669100000000000000
+4 rainhas - 1 omp threads - 5 processos
+Média: .09330800000000000000
+5 rainhas - 1 omp threads - 5 processos
+Média: .09711260000000000000
+6 rainhas - 1 omp threads - 5 processos
+Média: .09502240000000000000
+7 rainhas - 1 omp threads - 5 processos
+Média: .09937560000000000000
+8 rainhas - 1 omp threads - 5 processos
+Média: .09716300000000000000
+9 rainhas - 1 omp threads - 5 processos
+Média: .10595160000000000000
+10 rainhas - 1 omp threads - 5 processos
+Média: .10894360000000000000
+11 rainhas - 1 omp threads - 5 processos
+Média: .17100880000000000000
+12 rainhas - 1 omp threads - 5 processos
+Média: .21972120000000000000
+13 rainhas - 1 omp threads - 5 processos
+Média: .71379760000000000000
+14 rainhas - 1 omp threads - 5 processos
+Média: 2.95869260000000000000
+15 rainhas - 1 omp threads - 5 processos
+Média: 17.25376400000000000000
+16 rainhas - 1 omp threads - 5 processos
+Média: 117.40462580000000000000
+4 rainhas - 2 omp threads - 5 processos
+Média: .09819440000000000000
+5 rainhas - 2 omp threads - 5 processos
+Média: .09504320000000000000
+6 rainhas - 2 omp threads - 5 processos
+Média: .09389980000000000000
+7 rainhas - 2 omp threads - 5 processos
+Média: .09954980000000000000
+8 rainhas - 2 omp threads - 5 processos
+Média: .09924560000000000000
+9 rainhas - 2 omp threads - 5 processos
+Média: .09773540000000000000
+10 rainhas - 2 omp threads - 5 processos
+Média: .09804900000000000000
+11 rainhas - 2 omp threads - 5 processos
+Média: .13997780000000000000
+12 rainhas - 2 omp threads - 5 processos
+Média: .19965980000000000000
+13 rainhas - 2 omp threads - 5 processos
+Média: .65798160000000000000
+14 rainhas - 2 omp threads - 5 processos
+Média: 2.86610480000000000000
+15 rainhas - 2 omp threads - 5 processos
+Média: 17.60937420000000000000
+16 rainhas - 2 omp threads - 5 processos
+Média: 119.08751120000000000000
+4 rainhas - 4 omp threads - 5 processos
+Média: .08856900000000000000
+5 rainhas - 4 omp threads - 5 processos
+Média: .09243100000000000000
+6 rainhas - 4 omp threads - 5 processos
+Média: .09274380000000000000
+7 rainhas - 4 omp threads - 5 processos
+Média: .08940060000000000000
+8 rainhas - 4 omp threads - 5 processos
+Média: .09051020000000000000
+9 rainhas - 4 omp threads - 5 processos
+Média: .10082120000000000000
+10 rainhas - 4 omp threads - 5 processos
+Média: .10338080000000000000
+11 rainhas - 4 omp threads - 5 processos
+Média: .14181680000000000000
+12 rainhas - 4 omp threads - 5 processos
+Média: .22421080000000000000
+13 rainhas - 4 omp threads - 5 processos
+Média: .63283440000000000000
+14 rainhas - 4 omp threads - 5 processos
+Média: 2.90455880000000000000
+15 rainhas - 4 omp threads - 5 processos
+Média: 17.53144500000000000000
+16 rainhas - 4 omp threads - 5 processos
+Média: 119.09194420000000000000
+4 rainhas - 8 omp threads - 5 processos
+Média: .09617300000000000000
+5 rainhas - 8 omp threads - 5 processos
+Média: .09772760000000000000
+6 rainhas - 8 omp threads - 5 processos
+Média: .09902320000000000000
+7 rainhas - 8 omp threads - 5 processos
+Média: .09859820000000000000
+8 rainhas - 8 omp threads - 5 processos
+Média: .10088060000000000000
+9 rainhas - 8 omp threads - 5 processos
+Média: .09573120000000000000
+10 rainhas - 8 omp threads - 5 processos
+Média: .11763600000000000000
+11 rainhas - 8 omp threads - 5 processos
+Média: .11490180000000000000
+12 rainhas - 8 omp threads - 5 processos
+Média: .19413520000000000000
+13 rainhas - 8 omp threads - 5 processos
+Média: .69694380000000000000
+14 rainhas - 8 omp threads - 5 processos
+Média: 2.92007600000000000000
+15 rainhas - 8 omp threads - 5 processos
+Média: 17.59519520000000000000
+16 rainhas - 8 omp threads - 5 processos
+Média: 117.98096660000000000000
+4 rainhas - 1 omp threads - 6 processos
+Média: .10367760000000000000
+5 rainhas - 1 omp threads - 6 processos
+Média: .09948600000000000000
+6 rainhas - 1 omp threads - 6 processos
+Média: .09935880000000000000
+7 rainhas - 1 omp threads - 6 processos
+Média: .10066740000000000000
+8 rainhas - 1 omp threads - 6 processos
+Média: .09883320000000000000
+9 rainhas - 1 omp threads - 6 processos
+Média: .10021880000000000000
+10 rainhas - 1 omp threads - 6 processos
+Média: .10826680000000000000
+11 rainhas - 1 omp threads - 6 processos
+Média: .14224520000000000000
+12 rainhas - 1 omp threads - 6 processos
+Média: .24306860000000000000
+13 rainhas - 1 omp threads - 6 processos
+Média: .70279800000000000000
+14 rainhas - 1 omp threads - 6 processos
+Média: 2.96216360000000000000
+15 rainhas - 1 omp threads - 6 processos
+Média: 17.94958640000000000000
+16 rainhas - 1 omp threads - 6 processos
+Média: 123.81184700000000000000
+4 rainhas - 2 omp threads - 6 processos
+Média: .09827240000000000000
+5 rainhas - 2 omp threads - 6 processos
+Média: .10324680000000000000
+6 rainhas - 2 omp threads - 6 processos
+Média: .09739240000000000000
+7 rainhas - 2 omp threads - 6 processos
+Média: .09879960000000000000
+8 rainhas - 2 omp threads - 6 processos
+Média: .10152980000000000000
+9 rainhas - 2 omp threads - 6 processos
+Média: .09902700000000000000
+10 rainhas - 2 omp threads - 6 processos
+Média: .10447300000000000000
+11 rainhas - 2 omp threads - 6 processos
+Média: .15332680000000000000
+12 rainhas - 2 omp threads - 6 processos
+Média: .27662660000000000000
+13 rainhas - 2 omp threads - 6 processos
+Média: .65006000000000000000
+14 rainhas - 2 omp threads - 6 processos
+Média: 3.20356020000000000000
+15 rainhas - 2 omp threads - 6 processos
+Média: 17.84987180000000000000
+16 rainhas - 2 omp threads - 6 processos
+Média: 129.59112200000000000000
+4 rainhas - 4 omp threads - 6 processos
+Média: .09791200000000000000
+5 rainhas - 4 omp threads - 6 processos
+Média: .10379740000000000000
+6 rainhas - 4 omp threads - 6 processos
+Média: .10391900000000000000
+7 rainhas - 4 omp threads - 6 processos
+Média: .09695580000000000000
+8 rainhas - 4 omp threads - 6 processos
+Média: .10310180000000000000
+9 rainhas - 4 omp threads - 6 processos
+Média: .09831160000000000000
+10 rainhas - 4 omp threads - 6 processos
+Média: .10517340000000000000
+11 rainhas - 4 omp threads - 6 processos
+Média: .13925620000000000000
+12 rainhas - 4 omp threads - 6 processos
+Média: .24083240000000000000
+13 rainhas - 4 omp threads - 6 processos
+Média: .65204060000000000000
+14 rainhas - 4 omp threads - 6 processos
+Média: 3.09871280000000000000
+15 rainhas - 4 omp threads - 6 processos
+Média: 17.84422920000000000000
+16 rainhas - 4 omp threads - 6 processos
+Média: 121.37860700000000000000
+4 rainhas - 8 omp threads - 6 processos
+Média: .10122440000000000000
+5 rainhas - 8 omp threads - 6 processos
+Média: .09952780000000000000
+6 rainhas - 8 omp threads - 6 processos
+Média: .09751240000000000000
+7 rainhas - 8 omp threads - 6 processos
+Média: .09892480000000000000
+8 rainhas - 8 omp threads - 6 processos
+Média: .10273980000000000000
+9 rainhas - 8 omp threads - 6 processos
+Média: .09827340000000000000
+10 rainhas - 8 omp threads - 6 processos
+Média: .10829640000000000000
+11 rainhas - 8 omp threads - 6 processos
+Média: .12747200000000000000
+12 rainhas - 8 omp threads - 6 processos
+Média: .30327140000000000000
+13 rainhas - 8 omp threads - 6 processos
+Média: .77753260000000000000
+14 rainhas - 8 omp threads - 6 processos
+Média: 3.12667040000000000000
+15 rainhas - 8 omp threads - 6 processos
+Média: 18.01755120000000000000
+16 rainhas - 8 omp threads - 6 processos
+Média: 138.99473050000000000000
+
