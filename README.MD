@@ -1,7 +1,7 @@
 # Problema das N rainhas
 > Como rodar:
 - Para a versão MPI com OpenMP:
-    `mpicc -fopenmp -O3 -lpthread nqueen_paralell.c -o run;`
+    `mpicc -fopenmp -O3 -lpthread nqueen_paralell.c -o run`
     
     `mpirun --hostfile hostfile -np num_de_processos run num_rainhas num_omp_threads`
     
